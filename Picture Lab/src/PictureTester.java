@@ -35,6 +35,7 @@ public class PictureTester
 		//    testMirrorDiagonal();
 		    testCollage();
 		//    testCopy();
+		    
 
 		//    testChromakey();
 		//    testEncodeAndDecode();  // use png, gif or bmp because of compression
