@@ -36,7 +36,6 @@ public class PictureTester
 		    testCollage();
 		//    testCopy();
 		    
-
 		//    testChromakey();
 		//    testEncodeAndDecode();  // use png, gif or bmp because of compression
 		//    testGetCountRedOverValue(250);
